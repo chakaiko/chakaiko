@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @chakaiko
+- 👀 I’m interested in languages
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: [Twitter](https://twitter.com/chakaiko)
